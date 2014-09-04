@@ -1,0 +1,14 @@
+pt-BR:
+  active_admin:
+    scopes:
+      all: 'Todas'
+      active: 'Ativas'
+      inactive: 'Inativas'
+      active_devices: 'Ativos'
+      inactive_devices: 'Inativos'
+      latest_version: 'Todos os Candidatos'
+
+    action_items:
+      tse_import_apt_candidates: 'Importar Apenas Candidatos Aptos'
+      tse_import_all_candidates: 'Importar Todos Os Candidatos'
+      tse_import_started: 'A importação dos candidatos foi iniciada!'
