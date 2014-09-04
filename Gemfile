@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'turbolinks'
 gem 'pg'
+gem 'devise'
 gem 'activeadmin', git: 'https://github.com/gregbell/active_admin.git'
 
 gem 'sass-rails', '~> 4.0.3'
