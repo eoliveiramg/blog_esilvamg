@@ -1,0 +1,29 @@
+#menu-header {
+  .group {
+    margin-top: 26px;
+  }
+
+  a {
+    color: #242E35;
+    margin: 0 5px;
+    padding: 3px 10px;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .btn {
+    border: 1px solid #242E35;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+
+    -moz-box-shadow: 0px 0px 1px #242E35;
+    -webkit-box-shadow: 0px 0px 1px #242E35;
+    box-shadow: 0px 0px 1px #242E35;
+
+    &:hover {
+      color: #EEEEE7;
+      background: #242E35;
+    }
+  }
+}
