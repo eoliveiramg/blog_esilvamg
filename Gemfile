@@ -13,6 +13,7 @@ gem 'activeadmin', git: 'https://github.com/gregbell/active_admin.git'
 
 gem 'sass-rails', '~> 4.0.3'
 gem 'uglifier', '>= 1.3.0'
+gem 'twitter-bootstrap-rails'
 
 group :development do
   gem 'spring'
