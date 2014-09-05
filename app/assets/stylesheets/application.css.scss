@@ -1,0 +1,25 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #242E35;
+  background: #EEEEE7;
+  text-align: left;
+}
+
+a {
+  color: #4A7B6F;
+}
+
+p {
+  text-align: left;
+}
+
+hr {
+  color: #242E35;
+}
+
+#home {
+  margin: 0 150px;
+}
+
+@import "shared/header"
